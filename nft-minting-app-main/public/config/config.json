@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x060205adc181abadf50d9873d5a8709410bbeb7a",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x060205adc181abadf50d9873d5a8709410bbeb7a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Piggie Ghost NFT",
+  "SYMBOL": "PGNFT",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/piggieghost",
+  "SHOW_BACKGROUND": true
+}
