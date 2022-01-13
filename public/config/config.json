@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa80395f5b2a44b7e50ea84053a3917aa37787bcd",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa80395f5b2a44b7e50ea84053a3917aa37787bcd",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "PiggieGhost NFT",
+  "SYMBOL": "PGG",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/piggieghost",
+  "SHOW_BACKGROUND": true
+}
