@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0xa80395f5b2a44b7e50ea84053a3917aa37787bcd",
-  "SCAN_LINK": "https://polygonscan.com/address/0xa80395f5b2a44b7e50ea84053a3917aa37787bcd",
+  "CONTRACT_ADDRESS": "0xeCbd4de8c49c6caA2bcfbc8F8B18Ecbc24F8DADe",
+  "SCAN_LINK": "https://polygonscan.com/address/0xecbd4de8c49c6caa2bcfbc8f8b18ecbc24f8dade",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
     "ID": 137
   },
   "NFT_NAME": "PiggieGhost NFT",
-  "SYMBOL": "PGG",
+  "SYMBOL": "PGNFT",
   "MAX_SUPPLY": 777,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
