@@ -10,7 +10,7 @@
   "SYMBOL": "PGNFT",
   "MAX_SUPPLY": 777,
   "WEI_COST": 25000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 25,
   "GAS_LIMIT": 570000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/piggieghost",
