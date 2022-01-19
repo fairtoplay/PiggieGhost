@@ -298,7 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Max mints 5 NFTs
+                  Flash sale max mints 2NFTs
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
