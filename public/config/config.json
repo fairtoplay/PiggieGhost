@@ -14,5 +14,7 @@
   "GAS_LIMIT": 570000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/piggieghost",
+  "TWITTER": "Twitter",
+  "TWITTER_LINK": "https://twitter.com/piggieghost",
   "SHOW_BACKGROUND": true
 }
