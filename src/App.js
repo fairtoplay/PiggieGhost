@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.jpg", "_blank");
+                  window.open("/config/roadmap.txt", "_blank");
                 }}
                 style={{
                   margin: "5px",
@@ -298,7 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Flash sale max mints 2NFTs
+                  2nd drop max mints 5NFTs
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
