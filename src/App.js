@@ -298,7 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  2nd drop max mints 5NFTs
+                  Max mints 5NFTs
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
